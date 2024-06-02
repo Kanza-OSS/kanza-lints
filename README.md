@@ -1,4 +1,4 @@
-# Azerconnect Analysis
+L Kanza Lints
 ![Static Badge](https://img.shields.io/badge/style-kanza%20lints-347AF6)
 
 ## Usage
