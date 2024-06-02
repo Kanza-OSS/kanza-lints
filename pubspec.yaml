@@ -1,5 +1,5 @@
 name: kanza_lints
-version: 1.0.0
+version: 1.0.1
 description: Lint rules for Dart and Flutter
 repository: https://github.com/Kanza-OSS/kanza-lints
 issue_tracker: https://github.com/Kanza-OSS/kanza-lints/-/issues
